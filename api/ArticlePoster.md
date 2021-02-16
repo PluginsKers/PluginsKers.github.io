@@ -1,11 +1,13 @@
 # 文章海报
 
 请求地址: `https://api.52craft.cc/ArticlePoster/`
+
 请求方式: `GET`
 
 请求参数:
+
 | 参数 | 类型 | 说明 |
-| --- | --- | --- |
+| :--- | :--- | :--- |
 | t | Float | 随机数 |
 | sitename | String | 站点名称 |
 | introduction | String | 介绍 |
@@ -20,8 +22,9 @@
 
 
 返回参数:
+
 | 参数 | 类型 | 说明 |
-| --- | --- | --- |
+| :--- | :--- | :--- |
 | code | String | 状态 |
 | msg | String | 信息 |
 | img | Base64 | 图片 |
