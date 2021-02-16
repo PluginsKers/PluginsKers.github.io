@@ -1,14 +1,7 @@
 <!-- docs/_sidebar.md -->
 
 
-* [HOME](./)
+* [关于](./_about)
 
-* [Tutorials](./tutorials/index)
-  * [Tomcat](./tutorials/tomcat/index)
-  * [Cloud](./tutorials/cloud/index)
-  * [Java](./tutorials/java/index)
-
-* [About](./about/index)
-
-* [Contact](./contact/index)
+* [文章海报](./api/atricle_poster)
 
