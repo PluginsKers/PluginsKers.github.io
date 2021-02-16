@@ -3,5 +3,5 @@
 
 * [关于](./_about)
 
-* [文章海报](./api/atricle_poster)
+* [文章海报](./api/ArticlePoster)
 
