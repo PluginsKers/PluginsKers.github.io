@@ -2,7 +2,7 @@
 
 # API By PluginsKers
 
-> 使用Vue全家桶+Node.js搭建的小型全栈项目.
+> 一些实用的API文档
 
 [GitHub](https://github.com/PluginsKers/API.git)
-[Get Started](#quick-start)
+[Get Started](./about)

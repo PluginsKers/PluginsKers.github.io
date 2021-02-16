@@ -1,7 +1,7 @@
 <!-- docs/_sidebar.md -->
 
 
-* [关于](./_about)
+* [关于](about)
 
-* [文章海报](./api/ArticlePoster)
+* [文章海报](ArticlePoster)
 
