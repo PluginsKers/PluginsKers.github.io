@@ -1,6 +1,6 @@
-![logo](https://docsify.js.org/_media/icon.svg)
+![logo](https://www.52craft.cc/favicon.ico)
 
-# API By PluginsKers
+# Something By PluginsKers
 
 > 一些实用的API文档
 
