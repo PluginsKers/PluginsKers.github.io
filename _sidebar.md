@@ -5,3 +5,4 @@
 
 * [文章海报](ArticlePoster)
 
+* [MOTD](MOTD)
